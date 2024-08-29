@@ -13,6 +13,12 @@
     <br> 
     <br> 
 あの夜 𝖺𝗇𝖽 𝗆𝖺𝗋𝖼𝗁 𝗈𝗇</b><br>
+  <br>
+  <br>
+  <br>
+<p align="center">
+  <a href="https://nabisvibe.atabook.org/">atabook</a> / <a href="https://nabisvibe.straw.page/">strawpage</a> / <a href="https://nabisvibe.carrd.co/">carrd</a>
+</div>
  
 </p>
 <br> 
@@ -20,3 +26,4 @@
 <br> 
 
 <img align="center" width="100%" src="https://64.media.tumblr.com/7ca6ec308b6f38f5357a38ebdb7476e8/abbb5e03e0a2e282-aa/s1280x1920/7f8f39425d2e3e01dca5f0d820e9604156176de1.pnj">
+<br> 
